@@ -14,11 +14,12 @@
 <body>
     <form id="form1" runat="server">
     
-        <div id="wrap">
+        <div id="box">
      <h1> Wicked Easy Recipes </h1>
      <h2> Using 5 Ingredients or Less </h2>
 
             <div id="navi">
+
         <a href="Default.aspx"> Home </a>
         &nbsp;<a href="recipes.aspx"> View Recipes </a>
         &nbsp;<a href="addrecipe.aspx"> Add New Recipe </a>

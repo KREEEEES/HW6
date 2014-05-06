@@ -1,2 +1,18 @@
 ﻿body {background-color: tan;
 }
+#box {
+    background: white;
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    padding-top: 20px;
+    text-align: center;
+    border-left: solid 10px coral;
+    border-right: solid 10px coral;
+    border-top: solid 10px coral;
+    border-bottom: solid 10px coral;
+
+}
+
+   
+
