@@ -1,4 +1,4 @@
-﻿body {background-color: tan;
+﻿body {background-color: silver;
 }
 #box {
     background: white;
@@ -16,3 +16,45 @@
 
    
 
+ #navi{text-align: center;
+         background-color: coral; 
+         font-family: arial; 
+         font-size: 14pt; }
+
+ .grid-view {
+    background-color:white;
+    width: auto;
+    margin: 5px 0 10px 0;
+    border: solid 2px silver;
+    border-collapse: collapse;
+    text-align: center;
+    color: black;
+}
+
+
+.grid-view .row { background-color: white;
+    }
+
+.grid-view .alternate { background-color: coral;
+    }
+
+    .grid-view td {
+        padding: 10px;
+        border: solid 2px silver;
+        color: black;
+    }
+
+    .grid-view th {
+        padding: 10px;
+        color: white;
+        border-left: solid 2px silver;
+ }
+
+    #GridView1 { margin-right:auto;
+    margin-left:auto;
+}
+
+#DetailsView1 {
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -6,7 +6,7 @@
 <head runat="server">
     <title> Wicked Easy Recipes</title>
     
-    <link rel="stylesheet" type="text/css" href="StyleSheet.css"
+    <link rel="stylesheet" type="text/css" href="StyleSheet.css" />
 
 </head>
 
@@ -23,14 +23,14 @@
         <a href="Default.aspx"> Home </a>
         &nbsp;<a href="recipes.aspx"> View Recipes </a>
         &nbsp;<a href="addrecipe.aspx"> Add New Recipe </a>
-      
-        &nbsp; <a href="about.aspx"> About Us</a>
+          &nbsp; <a href="about.aspx"> About Us</a>
         &nbsp; <a href="contact.aspx"> Contact </a>
 
-            </div>
+            
 
     
     </div>
+<div id="footer"> &copy;  Wicked Easy Recipes 2014. </div>
     </form>
 </body>
 </html>
