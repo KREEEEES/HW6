@@ -28,9 +28,10 @@
 
             
 
-    
-    </div>
-<div id="footer"> &copy;  Wicked Easy Recipes 2014. </div>
+   </div>
+     <div>   <img src="./Images/wicked.jpg" alt="food" title="food" height="250px" width="275" /></div>
+        
+         <div id="footer"> &copy;  Wicked Easy Recipes 2014. </div>
     </form>
 </body>
 </html>
